@@ -4,7 +4,7 @@
 
 <p align="center">Buscanco resolções para grandes problemas usando a tecnologia. <br><br> Sou um jovem estudante de programção e apaixonado por inteligência artificial, blockhain e Web 3.0. Busco constantemente me aventurar no desconhecido e em coisas que podem melhorar como nos vivemos. Meu objetivo é projetar soluções que transformem o mundo, combinando minha paixão pela tecnologia com uma busca incessante por novos desafios.</p>&nbsp;  
 
- 
+
  &nbsp;
  &nbsp;
 
